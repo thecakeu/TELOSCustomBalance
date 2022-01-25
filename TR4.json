@@ -1,0 +1,9 @@
+{
+  "baseDamage": 18,
+  "minDamage": 18,
+  "shotgunBarrels": [
+    "0 0.5 0"
+    "0 0 0"
+    "0 -0.5 0"
+  ]
+}
