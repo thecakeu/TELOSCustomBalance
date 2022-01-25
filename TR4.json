@@ -9,8 +9,8 @@
   "switchDelay": 0.0,
   "switchTime": 0.7,
   "shotgunBarrels": [
-    "0 0.5 0"
-    "0 0 0"
+    "0 0.5 0",
+    "0 0 0",
     "0 -0.5 0"
   ]
 }
