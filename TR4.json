@@ -1,6 +1,14 @@
 {
+  "itemGameName": "TripleTake",
   "baseDamage": 18,
   "minDamage": 18,
+  "weaponType": "Shotgun",
+  "rof": 0.66,
+  "reloadType": "Magazine",
+  "ammo": 6,
+  "reload": 1.75,
+  "switchDelay": 0.0,
+  "switchTime": 0.7,
   "shotgunBarrels": [
     "0 0.5 0"
     "0 0 0"
