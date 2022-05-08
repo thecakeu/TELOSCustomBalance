@@ -1,8 +1,0 @@
-{
-  "baseDamage": 15,
-  "weaponType": "Shotgun",
-  "shotgunBarrels": [
-    "1 0 0",
-    "-1 0 0"
-  ]
-}
